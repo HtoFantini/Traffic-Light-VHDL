@@ -1,0 +1,18 @@
+Fitter Status : Successful - Sat Jun 24 11:28:19 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : Sinal
+Top-level Entity Name : Sinal
+Family : MAX 10
+Device : 10M40DCF484C7G
+Timing Models : Final
+Total logic elements : 29 / 40,368 ( < 1 % )
+    Total combinational functions : 29 / 40,368 ( < 1 % )
+    Dedicated logic registers : 16 / 40,368 ( < 1 % )
+Total registers : 16
+Total pins : 44 / 360 ( 12 % )
+Total virtual pins : 0
+Total memory bits : 0 / 1,290,240 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 250 ( 0 % )
+Total PLLs : 0 / 4 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0

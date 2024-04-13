@@ -1,0 +1,7 @@
+
+State Machine - |Sinal|current_state
+Name current_state.STATE_YELLOW current_state.STATE_GREEN current_state.STATE_RED current_state.STATE_WAIT 
+current_state.STATE_WAIT 0 0 0 0 
+current_state.STATE_RED 0 0 1 1 
+current_state.STATE_GREEN 0 1 0 1 
+current_state.STATE_YELLOW 1 0 0 1 

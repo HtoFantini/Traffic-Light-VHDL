@@ -1,0 +1,41 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "red_light",
+					"strict" : false
+				},
+				{
+					"name" : "yellow_light",
+					"strict" : false
+				},
+				{
+					"name" : "green_light",
+					"strict" : false
+				},
+				{
+					"name" : "pedestre_red_light",
+					"strict" : false
+				},
+				{
+					"name" : "pedestre_green_light",
+					"strict" : false
+				},
+				{
+					"name" : "buzzer",
+					"strict" : false
+				},
+				{
+					"name" : "reset",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
